@@ -1,0 +1,11 @@
+{
+  "name": "mitichanel",
+  "version": "1.0.0",
+  "description": "Social network for MiTi",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tritm",
+  "license": "ISC"
+}
